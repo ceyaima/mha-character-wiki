@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Londrina+Shadow&family=Rubik&display=swap');
+
+body {
+  font-family: 'Rubik';
+  background-color: #252526;
+  color: white;
+}
+
+#ims {
+  border-radius: 50%;
+  height: 400px;
+  width: 400px;
+  float: left;
+  margin-top: 20px;
+  margin-left: 25px;
+  margin-bottom: 0px;
+}
+
+h1 {
+  font-family: 'Londrina Shadow';
+  font-size: 80px;
+  text-align: center;
+  margin-top: 40px;
+  margin-bottom: 30px;
+  text-shadow: 5px 5px 8px rgba(255, 255, 255, 0.1);
+}
+
+h2 {
+  font-family: 'Bebas Neue';
+  font-size: 40px;
+  margin-bottom: 0px;
+  background-color: #141314;
+  margin: 0px;
+  text-align: center;
+}
+
+h3 {
+  font-family: 'Rubik';
+}
+
+h4 {
+  margin-bottom: 3px;
+  margin-top: 40px;
+}
+
+p {
+  font-family: 'Rubik';
+  margin-bottom: 5px;
+}
+
+div {
+  margin-bottom: 100px;
+}
+
+.overview {
+  width: 55%;
+  margin:auto;
+  background-color: #141314;
+  padding: 30px;
+  padding-left: 10px;
+  overflow: auto;
+  border-radius: 30px;
+  border: solid 3px #252526;
+  box-shadow: 5px 5px 8px rgba(255, 255, 255, 0.1);
+  margin-bottom: 100px;
+}
+
+.img {
+  float: left;
+  width: 30%;
+  margin-left: 30%;
+  margin-bottom: 0px;
+}
+
+.text {
+  float: right;
+  width: 30%
+  padding: 5px;
+  margin-right: 20px;
+  margin-bottom: 25px;
+}
+
+#image {
+  border-radius: 50%;
+  height: 420px;
+  width: 420px;
+  float: left;
+  margin-top: 20px;
+  margin-left: 25px;
+  margin-bottom: 0px;
+}
+
+#stats {
+  margin-bottom: 0px;
+}
+
+.p {
+  width: 60%;
+  margin: auto;
+  margin-top: 10px;
+  margin-bottom: 80px;
+  text-align: justify;
+}
+
+li {
+  margin-bottom: 15px;
+}
+
+#quotes {
+  width: 70%;
+  font-size: 16px;
+  text-align: center;
+  line-height: 1.5;
+}
